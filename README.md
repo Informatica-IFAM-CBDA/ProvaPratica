@@ -24,7 +24,14 @@
    - Instancie a Classe `Biblioteca`.
    - Execute a função `consultarLivros()`, copie a resposta e adicione como comentario na linha abaixo.
 
+4. **Implementação de Herança e Polimorfirsmo**
+   - Crie outa classe chamada `Usuario` que herde da classe `Biblioteca`.
+   - Adicione uma novo atributo/propriedade chamado `nomeUsuario`.
+   - Adicione um `construtor` para essa classe `Usuario` inicializando o atributo `nomeUsuario`.
 
+   - Usando o conceito de `Polimorfirsmo` sobrescreva o método chamado `consultarLivros()` que vem da classe `Biblioteca` e retorne um resultado que apresenta o atributo da classe Usuario e as informações da Biblioteca.
+
+   Exemplo: "O Usuario: 'Usuario' pesquisou o livro: 'Livro' do autor: 'Autor' lancado no ano: 'Ano'".
 
 
 ## Entrega
